@@ -45,4 +45,4 @@
 
 ---
 
-如果你觉的制作得还可以，别忘了给我的[视频](https://www.bilibili.com/video/BV1bP411p7BA/)一键三连哦（能给这个仓库一个star也不错呢）
+如果你觉的制作得还可以，别忘了给我的[视频](https://www.bilibili.com/video/BV12p4y1E78d/)一键三连哦（能给这个仓库一个star也不错呢）
